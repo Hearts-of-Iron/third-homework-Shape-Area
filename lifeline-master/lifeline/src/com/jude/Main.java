@@ -14,8 +14,8 @@ public class Main {
             new NimaPrisoner(),
             new NimaPrisoner(),
             new NimaPrisoner(),
-            //new JayPrisoner(),
-            //new ZhangPrisoner(),
+            new JayPrisoner(),
+            new ZhangPrisoner(),
             new HeartsPrisoner()
     };
 
